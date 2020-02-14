@@ -1,0 +1,5 @@
+/*
+Copyright 2020 @ Jan Bebendorf
+https://github.com/JanHolger/OnsetATMUI
+*/
+#atm{position:absolute;bottom:0px;left:calc(50vw - 450px);}*{font-family:sans-serif;user-select:none;outline:none;}.display-insert-card{background-color:#C00000;color:white;text-align:center;font-weight:700;}.display-loading{background-color:#C00000;color:white;text-align:center;font-weight:700;}.display-menu{background-color:#C00000;color:white;text-align:center;font-weight:700;font-size:15px;}.menu-table{font-size:10px;text-align:left;margin-top:25px;width:100%;}.menu-table > tr {height:20px;}.display-input{background-color:#C00000;color:white;text-align:center;font-weight:700;font-size:15px;}.input-input{width:90px;border:0px solid transparent;margin-top:10px;}
