@@ -41,4 +41,4 @@ CallRemoteEvent(player, "CloseATM")
 ```
 
 ## License
-You are allowed to edit and use parts of this repository or the entire repository in open source licensed projects as long as you keep the copyright section in the files or mention the original repository (https://github.com/JanHolger/OnsetATMUI) in a seperate LICENSE or README file.
+You are allowed to edit and use parts of this repository or the entire repository in open source licensed and server projects as long as you keep the copyright section in the files or mention the original repository (https://github.com/JanHolger/OnsetATMUI) in a seperate CREDITS, LICENSE or README file. You are not allowed to use this repository in projects which are sold in any way.
